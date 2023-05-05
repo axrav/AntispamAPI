@@ -5,9 +5,9 @@ name: Go
 
 on:
   push:
-    branches: [ "aarav-patch-1" ]
+    branches: [ "axrav-patch-1" ]
   pull_request:
-    branches: [ "aarav-patch-1" ]
+    branches: [ "axrav-patch-1" ]
 
 jobs:
 
